@@ -2,7 +2,7 @@
 <h1 align="center">GACE</h1>
 GACE_FedML_experiment_ZCH
 
-![GitHub](https://img.shields.io/github/license/Sensorjang/GACE_FedML_experiment_ZCH)
+![GitHub](https://img.shields.io/github/license/Sensorjang/GACE_FedML_experiment_ZCH-master)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 </div>

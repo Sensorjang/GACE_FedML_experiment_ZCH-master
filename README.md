@@ -32,13 +32,18 @@ This experiment modified some algorithm logic and links of the [FedML framework]
   - CIFAR10: https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
   - SVHN: http://ufldl.stanford.edu/housenumbers/train_32x32.mat and http://ufldl.stanford.edu/housenumbers/test_32x32.mat
 
+## 实验结果
+
+- 实验结果数据路径：[exp_result](exp_result/)
+- Experimental result data path：[exp_result](exp_result/)
+
 ## 主要路径
 
 - 实验运行路径：[GACE_experiment](python/examples/simulation/GACE_experiment)
 - 算法API路径：[algorithm](python/fedml/simulation/sp)
 - 数据集逻辑路径：[dataset](python/fedml/data)
   <br/><br/>
-- Experimental run path: [GACE_experience](Python/examples/simulation/GACE_experience)
+- Experimental run path: [GACE_experiment](Python/examples/simulation/GACE_experiment)
 - Algorithm API path: [algorithm](Python/fedml/simulation/sp)
 - Dataset logical path: [dataset](Python/fedml/data)
 
